@@ -1,0 +1,16 @@
+{
+  "name": "social-media-bot",
+  "version": "0.1.0",
+  "description": "A Dashboard Github Bot that integrates Social Media with your server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varunan Varathan",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21"
+  }
+}
